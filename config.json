@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "name": "Python Task",
+            "interpreter": "python",
+            "script_path": "C:/path/to/your/script.py",
+            "time": "02:00"
+        },
+        {
+            "name": "Node Script",
+            "interpreter": "node",
+            "script_path": "C:/path/to/your/script.js",
+            "time": "14:30"
+        },
+        {
+            "name": "Batch File",
+            "interpreter": "cmd",
+            "script_path": "C:/path/to/your/script.bat",
+            "time": "08:00"
+        }
+    ]
+}
