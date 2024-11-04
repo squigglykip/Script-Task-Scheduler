@@ -1,6 +1,6 @@
 # Task Scheduler
 
-A lightweight Python-based task scheduler that runs in the background and executes Python scripts at specified times.
+A lightweight Python-based task scheduler that runs in the background and executes scripts at specified times.
 
 ## Features
 
@@ -42,7 +42,7 @@ Edit `config.json` to specify your tasks:
    ```
 
 - `name`: A descriptive name for your task
-- `interpreter`: The program to run the script (e.g., "python", "node", "cmd", "powershell")
+- `interpreter`: The programme to run the script (e.g., "python", "node", "cmd", "powershell")
 - `script_path`: Full path to the script (use forward slashes)
 - `time`: 24-hour format (e.g., "09:00" for 9 AM, "23:00" for 11 PM)
 
@@ -122,6 +122,6 @@ The task scheduler uses the `schedule` package to manage task timings. It reads 
 - Windows OS
 - `schedule` package
 
-## License
+## Licence
 
-This project is open source and available under the MIT License.
+This project is open source and available under the MIT Licence.
