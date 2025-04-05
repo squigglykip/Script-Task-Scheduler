@@ -1,1 +1,4 @@
 schedule==1.2.2
+customtkinter==5.2.2
+pillow==10.2.0
+pystray==0.19.5
